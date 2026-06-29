@@ -1,3 +1,5 @@
 # Migration scripts generated artifacts (do not commit)
 scripts/migrations/.env.migration
 backups/
+config.bat
+node_modules
