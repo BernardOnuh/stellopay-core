@@ -3,6 +3,6 @@ scripts/migrations/.env.migration
 backups/
 
 # Local environment files — may contain Stellar secret keys. Never commit.
-.env
-.env.*
 !.env.example
+config.bat
+node_modules
